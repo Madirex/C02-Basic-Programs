@@ -1,2 +1,14 @@
-# C02-Basic-Programs
-Basic C scripts (Part 2)
+# C02 Basic C Programs
+- ex00 (ft_strcpy) -> Copies the content from one string to another.
+- ex01 (ft_strncpy) -> Copies the content from one string to another, given the number of characters to copy.
+- ex02 (ft_str_is_alpha) -> Checks if the string is alphanumeric.
+- ex03 (ft_str_is_numeric) -> Checks if the string is numeric.
+- ex04 (ft_str_is_lowercase) -> Verifies that the string is lowercase.
+- ex05 (ft_str_is_uppercase) -> Verifies that the string is uppercase.
+- ex06 (ft_str_is_printable) -> Checks if the string is printable.
+- ex07 (ft_strupcase) -> Converts a string to uppercase.
+- ex08 (ft_strlowcase) -> Converts a string to lowercase.
+- ex09 (ft_strcapitalize) -> Capitalizes the first letter of each word.
+- ex10 (ft_strlcpy) -> Performs a secure copy from the source string (src) to the destination string (dest) with a size limit (size).
+- ex11 (ft_putstr_non_printable) -> Prints characters to the console. If the character is not printable, it is written in the corresponding hexadecimal value of the byte.
+- ex12 (ft_print_memory) -> Prints a visual representation of memory in hexadecimal and ASCII format. Each line displays the start address, the hexadecimal values of 16 bytes, and their ASCII representation.
